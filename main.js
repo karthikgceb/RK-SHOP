@@ -37,7 +37,6 @@ $(document).ready(function(){
         if($(window).scrollTop() > 20){
             $('#header').css({
                 'background':'#EB4D4B',
-                'padding':'5rem',
                 'position':'fixed',
                 'z-index':'1000',
                 'box-shadow':'0 .1rem .3rem #000'
