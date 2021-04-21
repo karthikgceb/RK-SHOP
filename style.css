@@ -473,7 +473,7 @@ width: 90%;
     font-size: 2.5rem;
   }
  #offer{
-   height: 140vh;
+   height: 100vh;
    width:100vw;
    display: flex;
    justify-content: center;
@@ -513,7 +513,7 @@ width: 90%;
    text-align: center;
  }
  #offer .image .box img{
-   height: 20rem;
+   height: 10rem;
    width: 30rem;
  }
  #offer .image .box h3{
@@ -536,7 +536,7 @@ width: 90%;
      margin-top: 15rem;
  }
  offer .deal .image img {
-    height: 50vh;
+    height: 30vh;
   }
   
   #offer .deal .content {
