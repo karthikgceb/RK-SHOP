@@ -24,7 +24,7 @@ body{
     background: #333;
     align-items: center;
     justify-content: space-between;
-    padding: .5rem 1rem;
+    padding: 1.5rem 2rem;
     color: #fff;
     width: 100vw;
 
@@ -46,7 +46,7 @@ padding: 0.5rem;
 
 #header .logo h1{
     display: inline;
-    font-size:1rem;
+    font-size: 1rem;
 }
 #header .logo:hover{
     text-decoration: none;
