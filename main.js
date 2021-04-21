@@ -38,6 +38,7 @@ $(document).ready(function(){
             $('#header').css({
                 'background':'#EB4D4B',
                 'position':'fixed',
+                'padding':'0.5rem 1rem',
                 'z-index':'1000',
                 'box-shadow':'0 .1rem .3rem #000'
             });
