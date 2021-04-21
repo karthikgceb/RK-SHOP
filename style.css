@@ -484,13 +484,13 @@ width: 90%;
   position: relative;
   color:rgb(0, 17, 255);
   font-size:3rem ;
-  padding-top: 5rem;
+  padding-top: 2.5rem;
   margin:2rem 0 ;
  }
  #offer .heading::after {
   content: '';
   position: absolute;
-  bottom: -1rem;
+  bottom: -0.5rem;
   left: 50%;
   transform: translateX(-50%);
   height: .3rem;
@@ -500,25 +500,25 @@ width: 90%;
  #offer .image{
    min-height:20vh ;
    width: 90%;
-   margin-top: 5rem;
+   margin-top: 4rem;
    display: flex;
    justify-content: space-around;
    align-items: center;
    flex-wrap: wrap;
  }
  #offer .image .box{
-   height:25rem ;
+   height:20rem ;
    width:30rem ;
-   margin:2rem ;
+   margin:1rem ;
    text-align: center;
  }
  #offer .image .box img{
-   height: 10rem;
-   width: 30rem;
+   height: 15rem;
+   width: 10rem;
  }
  #offer .image .box h3{
    margin: 1rem 0;
-   font-size: 2.5rem;
+   font-size: 1.5rem;
    color:#EB4D4B;
  }
  #offer .deal{
@@ -536,7 +536,7 @@ width: 90%;
      margin-top: 15rem;
  }
  offer .deal .image img {
-    height: 30vh;
+    height: 20vh;
   }
   
   #offer .deal .content {
