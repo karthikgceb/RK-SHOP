@@ -485,7 +485,7 @@ width: 90%;
   color:rgb(0, 17, 255);
   font-size:3rem ;
   padding-top: 2.5rem;
-  margin:2rem 0 ;
+  margin:5rem 0 ;
  }
  #offer .heading::after {
   content: '';
