@@ -473,7 +473,7 @@ width: 90%;
     font-size: 2.5rem;
   }
  #offer{
-   height: 100vh;
+   height: 140vh;
    width:100vw;
    display: flex;
    justify-content: center;
@@ -532,11 +532,14 @@ width: 90%;
      align-items: center;
      padding: 5rem 0rem;
      width: 100%;
-     height: 80vh;
+     height: 90vh;
      margin-top: 15rem;
  }
  offer .deal .image img {
-    height: 20vh;
+    height: 50vh;
+    width:40vh;
+    padding: 2rem;
+    margin-bottom: 5rem;
   }
   
   #offer .deal .content {
@@ -582,6 +585,14 @@ width: 90%;
     background: #EB4D4B;
     letter-spacing: .1rem;
   }
+#brand {
+  height: 90vh;
+  width:100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
 #brand .heading{
   position: relative;
   color:blue ;
@@ -597,7 +608,7 @@ width: 90%;
   left: 50%;
   transform: translateX(-50%);
   height: .3rem;
-  width: 10%;
+  width: 60%;
   background: #EB4D4B;
 }
 #brand .brand-slider img{
