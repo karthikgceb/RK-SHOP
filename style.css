@@ -771,6 +771,7 @@ p{
     #offer .deal .image img {
       height: auto;
       width: 100%;
+      height:30vh
     }
     #offer .deal .content {
       text-align: center;
